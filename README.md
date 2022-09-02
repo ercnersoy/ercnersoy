@@ -15,4 +15,3 @@
 
 
 <img src="./img/profile.gif" width="230">
-[website]: https://ercanersoy.com.tr
