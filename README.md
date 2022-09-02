@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there, I'm Ercan 👋 
 
-<!--
-**ercnersoy/ercnersoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![website](./img/globe-light.svg)](http://ercanersoy.com.tr/)
+[![website](./img/globe-dark.svg)](http://ercanersoy.com.tr/)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/ercnersoy)
+[![website](./img/twitter-dark.svg)](https://twitter.com/ercnersoy)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ercanersoy/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ercanersoy/)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/ercnersoy)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/ercnersoy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[website]: https://ercanersoy.com.tr
