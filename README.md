@@ -13,9 +13,7 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/ercnersoy)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/ercnersoy)
 
-![](./img/profile.gif | width=100)
+[![website](./img/profile.gif)](http://ercanersoy.com.tr/)
 
-
-
-
+<img src="./img/profile.gif" width="600">
 [website]: https://ercanersoy.com.tr
