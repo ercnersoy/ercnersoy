@@ -1,6 +1,6 @@
 # Hi there, I'm Ercan 👋 
 
-
+### Connect with me:
 [![website](./img/globe-light.svg)](http://ercanersoy.com.tr/)
 [![website](./img/globe-dark.svg)](http://ercanersoy.com.tr/)
 &nbsp;&nbsp;
