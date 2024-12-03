@@ -1,8 +1,7 @@
 # Hi there, I'm Ercan 👋 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ercnersoy)](https://github.com/ercnersoy/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ercnersoy&hide=contribs,prs)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ercnersoy&show_icons=true)
 ### Connect with me:
 [![website](./img/globe-light.svg)](http://ercanersoy.com.tr/)
 [![website](./img/globe-dark.svg)](http://ercanersoy.com.tr/)
